@@ -17,5 +17,5 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-#### Possuo conhecimentos na linguagem Python, tudo que aprendi foi de forma autodidata, através de cursos online e tutoriais, sou uma pessoa muito dedicada, gosto de aprender e gosto muito de compartilhar conhecimentos.
+#### Possuo conhecimentos na linguagem Python e tudo que aprendi foi de forma autodidata, através de cursos online e tutoriais, sou uma pessoa muito dedicada, gosto de aprender e gosto muito de compartilhar conhecimentos.
 
